@@ -4,7 +4,7 @@ WIFIpass
 
 Decrypt all saved WIFI passwords on your PC, Windows only.
 
-Updated on 2015-5-1.
+Updated on 2015-5-1. (Tested on Windows 7).
 
 Output could be like
 
@@ -12,4 +12,4 @@ Output could be like
 
 [http://www.lijiejie.com](http://www.lijiejie.com)  
 
-my[at]lijiejie.com
+concact me: my[at]lijiejie.com
